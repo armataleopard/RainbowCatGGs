@@ -1,0 +1,65 @@
+Project: RainbowCatGGs ($meowg)
+
+Objective:
+Create a luxurious, colorful, hyper-interactive and cheerful website for the meme coin "RainbowCatGGs" ($meowg) with a unique structure, unlike all previous ones. The site must reflect the fun, vibrant, and playful energy of the visual material provided, infused with neon, rainbows, animated cats, and meme-style humor.
+
+General Style:
+- Ultra bright, high-energy neon rainbow aesthetic
+- Playful, adorable, meme-centric visual identity
+- Heavy use of dynamic animations, glowing effects, bouncing UI elements
+- Inspired by streaming overlays, vaporwave, anime-cat aesthetics
+- Key visual: cool cats in sunglasses + trading interface + rainbows
+
+Homepage:
+- Large animated banner with $meowg logo and a glowing CTA
+- Center text: "RainbowCatGGs" and "$meowg" ticker (animated, sparkly)
+- Launch Date / PumpFun integration highlight if needed
+- Scrolling effect reveals clouds and floating emoji cats
+- Neon buttons: Telegram (prominent), Twitter
+- Interactive elements: floating cats that meow on hover
+- Gradient background that shifts based on scroll
+
+Sections:
+1. "Why $meowg?"
+   - Animated cat trader explaining with speech bubbles
+   - Rainbow pie chart with catnip distribution
+   - Story (100+ words) about how a cat saved DeFi with a trade
+
+2. "Catniponomics"
+   - Tokenomics explained via animated yarn, balls, and paw icons
+   - Interactive sliders to simulate "Cat Tax" and "GG Reward" logic
+
+3. "Meowmap"
+   - Colorful roadmap on a rainbow path
+   - Each milestone = clickable cloud with sound + animation
+
+4. "Leader of the Pack"
+   - Featured NFT-style Rainbow Cat avatar
+   - Speech generator: “Meowify your tweet”
+
+5. "Gallery of GG"
+   - Fan art wall, floating like a cosmic carousel
+   - Auto-play user-submitted images of $meowg use cases
+
+6. "Join the Clan"
+   - Email signup, Telegram join button, link to meme contest
+   - Hover effects: kittens pawing the screen
+
+Additional Features:
+- Music toggle with lo-fi meowwave beat
+- Easter egg cheat code: typing “gg” spawns a dancing pixel cat
+- NFT minting preview (if supported)
+- “Meow Scanner” - parody meme-based fake token checker
+
+Technical Notes:
+- Mobile responsive with touch-specific animations
+- Lazy loading for image-heavy sections
+- Lottie / SVG animation support
+- Framer Motion or GSAP animations preferred
+
+Deliverables:
+- Full responsive design
+- Animated homepage, section transitions, and interactions
+- Light/dark toggle version
+- Integration with Telegram and Twitter
+- One-pager .html with support for Framer/Cursor export
